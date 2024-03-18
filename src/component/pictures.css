@@ -1,0 +1,22 @@
+.head{
+    text-align: center;
+}
+.img{
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.color{
+    color: gray;
+    padding-top: 350px;
+}
+
+.drama{
+    color: gray;
+    padding-bottom: 10px;
+}
+
